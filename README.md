@@ -85,9 +85,3 @@ I'm happy to talk about Go, backend architecture, open source, or opportunities.
 
 📫 **Email:** karthikeyanvelu777@gmail.com
 💼 **LinkedIn:** (https://www.linkedin.com/in/karthi-keyan25/)
-
-<div align="center">
-
-⭐ *If you find something useful here, consider giving it a star.*
-
-</div>
