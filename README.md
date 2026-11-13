@@ -29,7 +29,7 @@ I'm a Go backend developer with **3+ years of experience** , focused on building
 
 **Languages**
 
-![Go](https://www.milesweb.in/blog/wp-content/uploads/2025/07/best-ide-for-golang.png)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
