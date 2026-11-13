@@ -17,7 +17,7 @@ Building fast, reliable, and scalable backend systems with Go, PostgreSQL, and R
 
 ## 👨‍💻 About Me
 
-I'm a Go backend developer with **3.5+ years of experience** (2.5+ years in Go), focused on building production-grade APIs and services.
+I'm a Go backend developer with **3+ years of experience** , focused on building production-grade APIs and services.
 
 - 🏢 Currently at **Piccosoft**, contributing to **[SpurtCMS](https://github.com/spurtcms)**, an open-source CMS written in Go
 - 📈 Previously spent ~2.5 years at **Flattrade**, working on a high-throughput fintech/trading platform
@@ -104,8 +104,8 @@ Worked on backend services for a trading platform where latency and correctness 
 
 I'm happy to talk about Go, backend architecture, open source, or opportunities.
 
-📫 **Email:** YOUR-EMAIL@example.com
-💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN)
+📫 **Email:** karthikeyanvelu777@gmail.com
+💼 **LinkedIn:** [[linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN)](https://www.linkedin.com/in/karthi-keyan25/)
 
 <div align="center">
 
