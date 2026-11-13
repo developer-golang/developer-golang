@@ -78,19 +78,6 @@ Worked on backend services for a trading platform where latency and correctness 
 
 > 📌 *Add your own pinned repositories here: project name, one-line description, and tech used.*
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&hide_border=true" alt="Top languages"/>
-
-</div>
-
----
-
 ## 🌱 Currently
 
 - Going deeper into **system design**, **distributed systems**, and **concurrency patterns in Go**
