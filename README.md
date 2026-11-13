@@ -64,7 +64,7 @@ I'm a Go backend developer with **3+ years of experience** , focused on building
 | **Reliability** | Error handling, logging, testing, and graceful shutdowns |
 | **Deployment** | Containerized services with Docker |
 
----
+
 
 ## 🚀 Featured Work
 
@@ -72,26 +72,19 @@ I'm a Go backend developer with **3+ years of experience** , focused on building
 Open-source, Go-based CMS. I contribute to backend modules, APIs, and performance improvements.
 `Go` `PostgreSQL` `GORM` `Docker`
 
-### Fintech Trading Platform (Flattrade)
-Worked on backend services for a trading platform where latency and correctness matter.
-`Go` `Redis` `PostgreSQL`
-
-> 📌 *Add your own pinned repositories here: project name, one-line description, and tech used.*
-
 ## 🌱 Currently
 
 - Going deeper into **system design**, **distributed systems**, and **concurrency patterns in Go**
 - Writing about backend engineering on Medium and LinkedIn
 - Preparing for **SDE-II backend** opportunities
-
----
+  
 
 ## 🤝 Let's Connect
 
 I'm happy to talk about Go, backend architecture, open source, or opportunities.
 
 📫 **Email:** karthikeyanvelu777@gmail.com
-💼 **LinkedIn:** [[linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN)](https://www.linkedin.com/in/karthi-keyan25/)
+💼 **LinkedIn:** (https://www.linkedin.com/in/karthi-keyan25/)
 
 <div align="center">
 
