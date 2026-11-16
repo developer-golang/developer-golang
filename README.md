@@ -16,7 +16,7 @@ Building fast, reliable, and scalable backend systems with Go, PostgreSQL, and R
 
 ## 👨‍💻 About Me
 
-I'm a Go backend developer with **3+ years of experience** , focused on building production-grade APIs and services.
+I'm a Go backend developer with **3+ years of experience**, focused on building production-grade APIs and services.
 
 - 🏢 Currently at **Piccosoft**, contributing to **[SpurtCMS](https://github.com/spurtcms)**, an open-source CMS written in Go
 - 📈 Previously spent ~2.5 years at **Flattrade**, working on a high-throughput fintech/trading platform
@@ -30,15 +30,21 @@ I'm a Go backend developer with **3+ years of experience** , focused on building
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Backend & Data**
 
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+![Protocol Buffers](https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Networking & Infrastructure**
+
+![Reverse Proxy](https://img.shields.io/badge/Reverse_Proxy_in_Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Forward Proxy](https://img.shields.io/badge/Forward_Proxy_in_Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **DevOps & Tools**
 
@@ -59,12 +65,14 @@ I'm a Go backend developer with **3+ years of experience** , focused on building
 | Area | Focus |
 |------|-------|
 | **API Design** | RESTful services with Gin, clean routing, validation, and middleware |
+| **Service Communication** | gRPC and Protocol Buffers for fast, strongly-typed service-to-service calls (unary and streaming) |
+| **Networking & Proxies** | Building reverse proxies (routing, load balancing, request/response handling) and forward proxies (controlled outbound traffic) in Go |
 | **Data Layer** | PostgreSQL schema design, query optimization, GORM |
 | **Performance** | Redis caching, concurrency with goroutines and channels |
 | **Reliability** | Error handling, logging, testing, and graceful shutdowns |
 | **Deployment** | Containerized services with Docker |
 
-
+---
 
 ## 🚀 Featured Work
 
@@ -72,16 +80,20 @@ I'm a Go backend developer with **3+ years of experience** , focused on building
 Open-source, Go-based CMS. I contribute to backend modules, APIs, and performance improvements.
 `Go` `PostgreSQL` `GORM` `Docker`
 
+---
+
 ## 🌱 Currently
 
 - Going deeper into **system design**, **distributed systems**, and **concurrency patterns in Go**
+- Building **gRPC** services and **reverse/forward proxies in Go**, and how they fit into microservice architectures
 - Writing about backend engineering on Medium and LinkedIn
 - Preparing for **SDE-II backend** opportunities
-  
+
+---
 
 ## 🤝 Let's Connect
 
 I'm happy to talk about Go, backend architecture, open source, or opportunities.
 
 📫 **Email:** karthikeyanvelu777@gmail.com
-💼 **LinkedIn:** (https://www.linkedin.com/in/karthi-keyan25/)
+💼 **LinkedIn:** [karthi-keyan25](https://www.linkedin.com/in/karthi-keyan25/)
