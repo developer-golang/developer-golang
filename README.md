@@ -40,6 +40,15 @@ I'm a Go backend developer with **3+ years of experience**, focused on building 
 ![Protocol Buffers](https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Payments & Integrations**
+
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Payment Gateway](https://img.shields.io/badge/Payment_Gateway_Integration-2E7D32?style=for-the-badge&logo=cashapp&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge&logo=webhooks&logoColor=white)
 
 **Networking & Infrastructure**
 
@@ -66,6 +75,9 @@ I'm a Go backend developer with **3+ years of experience**, focused on building 
 |------|-------|
 | **API Design** | RESTful services with Gin, clean routing, validation, and middleware |
 | **Service Communication** | gRPC and Protocol Buffers for fast, strongly-typed service-to-service calls (unary and streaming) |
+| **Microservices & Messaging** | Microservice architectures with event-driven communication over Apache Kafka (producers, consumers, consumer groups) |
+| **Payments** | Payment gateway integration with Razorpay and Stripe: order creation, verification, refunds, and reconciliation |
+| **Webhooks** | Secure webhook handling: signature verification, idempotency, retries, and async processing |
 | **Networking & Proxies** | Building reverse proxies (routing, load balancing, request/response handling) and forward proxies (controlled outbound traffic) in Go |
 | **Data Layer** | PostgreSQL schema design, query optimization, GORM |
 | **Performance** | Redis caching, concurrency with goroutines and channels |
@@ -85,6 +97,7 @@ Open-source, Go-based CMS. I contribute to backend modules, APIs, and performanc
 ## 🌱 Currently
 
 - Going deeper into **system design**, **distributed systems**, and **concurrency patterns in Go**
+- Designing **event-driven microservices** with **Apache Kafka** and reliable **payment flows** (Razorpay, Stripe, webhooks)
 - Building **gRPC** services and **reverse/forward proxies in Go**, and how they fit into microservice architectures
 - Writing about backend engineering on Medium and LinkedIn
 - Preparing for **SDE-II backend** opportunities
