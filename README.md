@@ -59,6 +59,7 @@ I'm a Go backend developer with **3+ years of experience**, focused on building 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -82,6 +83,7 @@ I'm a Go backend developer with **3+ years of experience**, focused on building 
 | **Data Layer** | PostgreSQL schema design, query optimization, GORM |
 | **Performance** | Redis caching, concurrency with goroutines and channels |
 | **Reliability** | Error handling, logging, testing, and graceful shutdowns |
+| **Version Control & Collaboration** | Git branching workflows, rebasing, and clean commit history; GitHub pull requests, code reviews, issues, and open-source contributions |
 | **Deployment** | Containerized services with Docker |
 
 ---
@@ -90,7 +92,7 @@ I'm a Go backend developer with **3+ years of experience**, focused on building 
 
 ### [SpurtCMS](https://github.com/spurtcms)
 Open-source, Go-based CMS. I contribute to backend modules, APIs, and performance improvements.
-`Go` `PostgreSQL` `GORM` `Docker`
+`Go` `PostgreSQL` `GORM` `Docker` `Git` `GitHub`
 
 ---
 
